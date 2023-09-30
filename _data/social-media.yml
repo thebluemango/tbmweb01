@@ -1,0 +1,23 @@
+email:
+  id: 'info@thebluemango.in'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+facebook:
+  id: 'thebluemango'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 'thebluemango_'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+instagram:
+  id: 'thebluemango.in'
+  href: 'https://instagram.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-instagram-square'

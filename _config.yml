@@ -1,0 +1,16 @@
+
+title: The Blue Mango
+email: info@thebluemango.in
+description: >- # this means to ignore newlines until "baseurl:"
+  Description for later
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: thebluemango_
+github_username: thebluemango.in
+
+# Build settings
+sass:
+    sass_dir: _sass
+include: ['_pages']
+kramdown:
+ input: GFM
