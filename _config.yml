@@ -3,8 +3,8 @@ title: The Blue Mango
 email: info@thebluemango.in
 description: >- # this means to ignore newlines until "baseurl:"
   Description for later
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thebluemango.github.io/tbmweb01/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/tbmweb01" # the subpath of your site, e.g. /blog
+url: "https://thebluemango.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thebluemango_
 github_username: thebluemango.in
 
