@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How To Order
-permalink: /contact/
+permalink: /order/
 ---
 
 
